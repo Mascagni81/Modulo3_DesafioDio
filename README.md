@@ -49,7 +49,7 @@
 
 
 ### Power BI
-<img src="./imgs/img1.png" width=100 height=100>
-<img src="./imgs/img2.png" width=100 height=100>
-<img src="./imgs/img3.png" width=100 height=100>
+<img src="./imgs/img1.PNG" width=100 height=100>
+<img src="./imgs/img2.PNG" width=100 height=100>
+<img src="./imgs/img3.PNG" width=100 height=100>
 
