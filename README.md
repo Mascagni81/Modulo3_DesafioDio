@@ -46,3 +46,10 @@
 ### 15. Agrupe os dados a fim de saber quantos colaboradores existem por gerente
 
 ### 16. Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
+
+
+### Power BI
+<img src="./imgs/img1.png" width=100 height=100>
+<img src="./imgs/img2.png" width=100 height=100>
+<img src="./imgs/img3.png" width=100 height=100>
+
